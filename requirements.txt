@@ -1,0 +1,5 @@
+beautifulsoup4
+pandas
+pymupdf==1.23.0
+pyyaml
+requests==2.32.3
