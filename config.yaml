@@ -1,0 +1,11 @@
+default:
+  loghttpdebug: 0
+  loglevel: 30
+splashlearn:
+  subject: math
+  grade: 3rd
+  topic: None
+  website: https://www.splashlearn.com
+  worksheet_base: https://www.splashlearn.com/s/math-worksheets
+  pdf_base: https://www.splashlearn.com/worksheet_uploads/pdf/s/
+  
