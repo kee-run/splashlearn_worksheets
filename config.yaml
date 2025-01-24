@@ -1,6 +1,6 @@
 default:
   loghttpdebug: 0
-  loglevel: 30
+  loglevel: 10
 splashlearn:
   subject: math
   grade: 3rd

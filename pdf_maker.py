@@ -186,7 +186,7 @@ def create_consolidated_pdf(hierarchy, output_pdf):
     cover_page = final_doc.new_page(width=612, height=792)
     cover_page.insert_text(
         (72, 72),
-        "Arya's 2025 H1 Math Worksheets",
+        "Son/daughter's 2025 H1 Math Worksheets",
         fontsize=24,
         fontname="helv"
     )
